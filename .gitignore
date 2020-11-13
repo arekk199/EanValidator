@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/EanValidator/bin
+/EanValidator/obj
+/EanValidatorConsole/bin
+/EanValidatorConsole/obj
+/.vs/eanValidator/DesignTimeBuild
+/.vs/eanValidator/v16
